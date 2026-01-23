@@ -2,3 +2,4 @@ Flask
 python-docx
 openpyxl
 matplotlib
+gunicorn
