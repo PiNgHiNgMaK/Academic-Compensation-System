@@ -1,0 +1,47 @@
+[
+    {
+        "id": "NOTIF-20260123123607-d6cc513f",
+        "message": "คำขอ REQ-25690123122926 ได้รับการอนุมัติแล้ว",
+        "recipient_role": null,
+        "recipient_username": "user03",
+        "req_id": "REQ-25690123122926",
+        "is_read": false,
+        "timestamp": "23/01/2569 12:36"
+    },
+    {
+        "id": "NOTIF-20260123123529-77824039",
+        "message": "มีการยื่นอุทธรณ์คำขอ REQ-25690123122926 (1 รายการ)",
+        "recipient_role": "committee",
+        "recipient_username": null,
+        "req_id": "REQ-25690123122926",
+        "is_read": false,
+        "timestamp": "23/01/2569 12:35"
+    },
+    {
+        "id": "NOTIF-20260123123143-4c012e4b",
+        "message": "ตรวจสอบผลงานคำขอ REQ-25690123122926 เรียบร้อยแล้ว (ถูกต้องทั้งหมด)",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690123122926",
+        "is_read": true,
+        "timestamp": "23/01/2569 12:31"
+    },
+    {
+        "id": "NOTIF-20260123123104-01036927",
+        "message": "คำขอ REQ-25690123122926 รอตรวจประวัติการยื่นขอ",
+        "recipient_role": "research",
+        "recipient_username": null,
+        "req_id": "REQ-25690123122926",
+        "is_read": false,
+        "timestamp": "23/01/2569 12:31"
+    },
+    {
+        "id": "NOTIF-20260123122933-6a7f3c40",
+        "message": "มีคำขอใหม่ REQ-25690123122926 จาก นาย ศ. สมศักดิ์",
+        "recipient_role": "administration",
+        "recipient_username": null,
+        "req_id": "REQ-25690123122926",
+        "is_read": true,
+        "timestamp": "23/01/2569 12:29"
+    }
+]
